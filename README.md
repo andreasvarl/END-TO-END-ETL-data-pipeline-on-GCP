@@ -21,6 +21,7 @@ Build an end-to-end data pipeline that:
 - Google Cloud Platform (GCP)
 - Python Programming
 - Data Engineering Concepts
+  
    ETL Process: Building an Extract-Transform-Load pipeline from scratch using modern tools.
    Schema Design: Structuring weather data for optimized storage and querying in BigQuery.
    Automation & Scheduling: Setting up reliable, repeatable data loads using GCP's event-driven services.
